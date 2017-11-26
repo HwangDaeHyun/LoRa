@@ -1,0 +1,14 @@
+1. send test 
+
+	1)execute send_test.c
+		->./send_test
+	2)input command line
+		ex) 0101010 
+	3)exit program with ctrl+c
+
+2. recieve test
+
+	1)execute recieve program
+		->./recieve_test
+	2)you can watching the data through polling method 
+
